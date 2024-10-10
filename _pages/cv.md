@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<object data="the.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="CV_Public.pdf" width="1000" height="1000" type='application/pdf'/>
 
-
+<object data="../files/CV_Public.pdf" width="1000" height="1000" type='application/pdf'></object>
