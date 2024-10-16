@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Dominic Kassirra"
   pronouns         : "he/him/his"  
-  bio              : "PhD Candidate in Applied Economics at the Wharton School. Interested in Public Economics and Behavioral Economics."
+  bio              : #"PhD Candidate in Applied Economics at the Wharton School. Interested in Public Economics and Behavioral Economics."
   employer         : "University of Pennsylvania"
   uri              : "https://bepp.wharton.upenn.edu/profile/kassirra/"
   email            : "kassirra@wharton.upenn.edu" 
