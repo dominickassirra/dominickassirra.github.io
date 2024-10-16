@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dominic Kassirra"
 description              : &description "personal description"
 url                      : https://dominickassirra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -273,7 +273,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -281,7 +280,6 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jemoji
 
 
