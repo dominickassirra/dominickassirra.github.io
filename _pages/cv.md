@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-# <object data="CV_Public.pdf" width="1000" height="1000" type='application/pdf'/>
+<a href="../files/CV_Public.pdf">Download File</a>
 
-# <object data="../files/CV_Public.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../files/CV_Public.pdf" width="1000" height="1000" type='application/pdf'></object>
