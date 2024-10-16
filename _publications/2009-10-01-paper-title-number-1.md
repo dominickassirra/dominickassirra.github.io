@@ -2,7 +2,7 @@
 title: "Refunding Sin Taxes"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /research/2009-10-01-paper-title-number-1
 excerpt: 'This project explores how targeting and redistribution can be improved by (partially) refunding sin taxes.'
 date: 2024
 venue: 'Work in Progress'
