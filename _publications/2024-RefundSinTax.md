@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /research/2024-RefundSinTax
 excerpt: 'This project explores how targeting and redistribution can be improved by (partially) refunding sin taxes.'
-date: 2024
+date: 2024-10-16
 venue: 'Work in Progress'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
